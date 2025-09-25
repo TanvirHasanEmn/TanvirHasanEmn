@@ -1,6 +1,6 @@
 <h1 align="center">Tanvir Hasan</h1>
 <h3 align="center">Mobile App Developer - Android & iOS | Flutter Enthusiast </h3>
-<h5 align="center">Java | Kotlin | PHP - Laravel | Python | Machine Learning | Deep Learning | AI Agents | IoT | Sensors | Automation </h5>
+<h5 align="center">Java | Kotlin | Firebase | PHP - Laravel | Python | Machine Learning | Deep Learning | AI Agents | IoT | Sensors | Automation </h5>
   
 
 ---

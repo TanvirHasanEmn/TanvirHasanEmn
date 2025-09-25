@@ -5,23 +5,21 @@
 
 ---
 ### 📫 Connect with Me  
-<p align="center">
+
+<div align="center">
   <a href="mailto:tanvirhasanemn@gmail.com">
-    <img src="https://img.icons8.com/color/32/gmail--v1.png" alt="gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 spaces -->
+  <span style="margin: 0 10px;"></span>
   <a href="https://www.linkedin.com/in/tanvirhasanemn/">
-    <img src="https://img.icons8.com/color/32/linkedin.png" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="margin: 0 10px;"></span>
   <a href="https://www.facebook.com/tanvirhasan.emn/">
-    <img src="https://img.icons8.com/color/32/facebook-new.png" alt="facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="32"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/tanvirhasanemn">
-    <img src="https://img.icons8.com/material-outlined/32/github.png" alt="github"/>
-  </a>
-</p>
+</div>
+
 
 
 

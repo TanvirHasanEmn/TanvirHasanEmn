@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tanvir Hasan 👋</h1>
-<h3 align="center">Mobile & Web Developer | Flutter Enthusiast | AI/ML Learner</h3>
+<h3 align="center">Mobile App Developer - Android & iOS | Flutter Enthusiast </h3>
 
 🚀 I specialize in building **scalable, pixel-perfect apps** with Flutter, Kotlin, and Laravel.  
 💡 Passionate about **IoT applications** and exploring **AI/ML with Python**.  
@@ -9,9 +9,7 @@
 ---
 
 ### 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/tanvirhasanemn/)  
-- [Email](mailto:tanvirhasanemn@gmail.com)  
-- [Facebook](https://www.facebook.com/tanvirhasan.emn/)  
+- [LinkedIn](https://www.linkedin.com/in/tanvirhasanemn/)        - [Email](mailto:tanvirhasanemn@gmail.com)          - [Facebook](https://www.facebook.com/tanvirhasan.emn/)  
 
 ---
 

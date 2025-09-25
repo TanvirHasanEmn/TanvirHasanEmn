@@ -41,11 +41,4 @@
 
 ---
 
-### 📌 Featured Projects
-- [🏋️ Fitness Workout App](https://github.com/your-repo) – Full workout flow with timers, video, and progress  
-- [📍 Smart Vending Machine](https://github.com/your-repo) – Google Maps + real-time vending machine data  
-- [📰 News Feed App](https://github.com/your-repo) – Social app with feeds, likes, comments, and API  
-
----
-
 ⭐ *Always open to collaboration on Flutter, AI/ML, or IoT projects!*

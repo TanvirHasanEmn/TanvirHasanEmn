@@ -7,18 +7,18 @@
   
 
 ---
-
-<p>
 ### 📫 Connect with Me  
-
 <p align="center">
-  <a href="mailto:tanvirhasanemn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tanvirhasanemn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/tanvirhasan.emn/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:tanvirhasanemn@gmail.com">
+    <img src="https://img.icons8.com/color/38/gmail--v1.png" alt="gmail" style="margin: 0 50px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tanvirhasanemn/">
+    <img src="https://img.icons8.com/color/38/linkedin.png" alt="linkedin" style="margin: 0 50px;"/>
+  </a>
+  <a href="https://www.facebook.com/tanvirhasan.emn/">
+    <img src="https://img.icons8.com/color/38/facebook-new.png" alt="facebook" style="margin: 0 50px;"/>
+  </a>
 </p>
-</p>
-
-
 ---
 
 ### 🛠️ Tech Stack

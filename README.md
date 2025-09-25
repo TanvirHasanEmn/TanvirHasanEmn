@@ -8,11 +8,22 @@
 
 ---
 
-### 🔗 Connect with Me
+
+### 📫 Connect with Me  
+
 <p align="center">
-  <a href="mailto:tanvirhasanemn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tanvirhasanemn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/tanvirhasan.emn/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:tanvirhasanemn@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tanvirhasanemn/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/tanvirhasan.emn/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/tanvirhasanemn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
 </p>
 
 ---

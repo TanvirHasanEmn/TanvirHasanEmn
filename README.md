@@ -10,15 +10,22 @@
 ### 📫 Connect with Me  
 <p align="center">
   <a href="mailto:tanvirhasanemn@gmail.com">
-    <img src="https://img.icons8.com/color/38/gmail--v1.png" alt="gmail" style="margin: 100px 100px;"/>
+    <img src="https://img.icons8.com/color/32/gmail--v1.png" alt="gmail"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 spaces -->
   <a href="https://www.linkedin.com/in/tanvirhasanemn/">
-    <img src="https://img.icons8.com/color/38/linkedin.png" alt="linkedin" style="margin: 100px 100px;"/>
+    <img src="https://img.icons8.com/color/32/linkedin.png" alt="linkedin"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/tanvirhasan.emn/">
-    <img src="https://img.icons8.com/color/38/facebook-new.png" alt="facebook" style="margin: 100px 100px;"/>
+    <img src="https://img.icons8.com/color/32/facebook-new.png" alt="facebook"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/tanvirhasanemn">
+    <img src="https://img.icons8.com/material-outlined/32/github.png" alt="github"/>
   </a>
 </p>
+
 
 
 

@@ -13,18 +13,16 @@
 
 <p align="center">
   <a href="mailto:tanvirhasanemn@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail"/>
+    <img src="https://img.icons8.com/color/40/gmail--v1.png" alt="gmail" style="margin: 0 15px;"/>
   </a>
   <a href="https://www.linkedin.com/in/tanvirhasanemn/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+    <img src="https://img.icons8.com/color/40/linkedin.png" alt="linkedin" style="margin: 0 15px;"/>
   </a>
   <a href="https://www.facebook.com/tanvirhasan.emn/">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook"/>
-  </a>
-  <a href="https://github.com/tanvirhasanemn">
-    <img src="https://img.icons8.com/material-outlined/48/github.png" alt="github"/>
+    <img src="https://img.icons8.com/color/40/facebook-new.png" alt="facebook" style="margin: 0 15px;"/>
   </a>
 </p>
+
 
 
 ---

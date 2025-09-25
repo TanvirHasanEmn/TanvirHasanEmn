@@ -4,7 +4,7 @@
 🚀 I specialize in building **scalable, pixel-perfect apps** with Flutter, Kotlin, and Laravel.  
 💡 Passionate about **IoT applications** and exploring **AI/ML with Python**.  
 🌱 Currently diving into **AI Agents**.  
-💼 Working at **SM Technology**.  
+  
 
 ---
 

@@ -4,28 +4,30 @@
   
 
 ---
-### 📫 Connect with Me
 <table align="center">
   <tr>
+    <td><b>📫 Connect with Me</b></td>
+    <td width="40"></td>
     <td>
       <a href="mailto:tanvirhasanemn@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
       </a>
     </td>
-    <td width="60"></td>
+    <td width="20"></td>
     <td>
       <a href="https://www.linkedin.com/in/tanvirhasanemn/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
       </a>
     </td>
-    <td width="60"></td>
+    <td width="20"></td>
     <td>
       <a href="https://www.facebook.com/tanvirhasan.emn/">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="32"/>
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 

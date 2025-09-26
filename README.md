@@ -4,6 +4,7 @@
   
 
 ---
+<p>
 <b> 📫 Connect with Me  </b>
 <p align="center">
   
@@ -19,7 +20,7 @@
     <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" height="40"/>
   </a>
 </p>
-
+</p>
 
 
 

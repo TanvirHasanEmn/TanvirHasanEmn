@@ -4,9 +4,9 @@
   
 
 ---
-### 📫 Connect with Me  
-
+<b> 📫 Connect with Me  </b>
 <p align="center">
+  
   <a href="mailto:tanvirhasanemn@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="40"/>
   </a>

@@ -4,29 +4,19 @@
   
 
 ---
-<div align="center">
-
-  <span><b>📫 Connect with Me</b></span>
-  
-  &nbsp;&nbsp;&nbsp; <!-- spacing -->
-  
+<p align="center">
+  <b>📫 Connect with Me</b>&nbsp;&nbsp;&nbsp;
   <a href="mailto:tanvirhasanemn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
-  </a>
-  
-  &nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tanvirhasanemn/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
-  </a>
-  
-  &nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/tanvirhasan.emn/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28"/>
   </a>
+</p>
 
-</div>
 
 
 

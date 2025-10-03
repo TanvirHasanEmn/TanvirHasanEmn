@@ -41,7 +41,7 @@
 <b>Technologies:</b><br>
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"/>
+
 
 <br><br>
 <b>Tools & DBs:</b><br>

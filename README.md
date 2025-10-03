@@ -21,7 +21,7 @@
 
    <h3> <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white"</h3>
   <li><strong>Projects:</strong> 60+ (26 production-grade)</li>
-  <li><strong>Highlights:</strong> Pixel-perfect cross-platform apps, Play Store & App Store published apps, Firebase integration, Push Notifications, Payment Systems.</li>
+  <strong>Tools: </strong></br> GetX | Provider | Riverpod | </br> Firebase | Supabase |Rest API's | http | dio | Web Socket | Web RTC | Agora  | </br> 
 
 
 

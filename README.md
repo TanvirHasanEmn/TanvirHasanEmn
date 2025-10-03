@@ -36,14 +36,14 @@
 
 <h3>💻 Backend Development</h3>
 
-<p><b>Projects:</b> 8 (5 production-grade)</p>
+<p><b>Projects:</b> 8 [5 production-grade(for mobile apps)]</p>
 
 <b>Technologies:</b><br>
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"/>
 
 
-<br><br>
+<br>
 <b>Tools & DBs:</b><br>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/>
@@ -55,7 +55,7 @@
 
 <h3>🌐 Web Development</h3>
 
-<p><b>Projects:</b> 7 (4 production-grade)</p>
+<p><b>Projects:</b> 7 (1 production-grade)</p>
 
 <b>Technologies:</b><br>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>
@@ -64,7 +64,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white"/>
 
-<br><br>
+<br>
 <b>Highlights:</b> Responsive websites, admin dashboards, CMS integration.
 
 </td>
@@ -82,7 +82,7 @@
 
 <h4>🧠 Machine Learning & AI</h4>
 
-<p><b>Projects:</b> 6 (2 production-grade)</p>
+<p><b>Projects:</b> 23 (for 2 research paper)</p>
 
 <b>Technologies:</b><br>
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
@@ -118,9 +118,8 @@
 
 <b>Technologies:</b><br>
 <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/-RaspberryPi-A22846?logo=raspberry-pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Node MCU-A22846?logo=raspberry-pi&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MATLAB-FF8000?logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white"/>
 
 <br><br>
 <b>Highlights:</b> IoT sensors, automation systems, hardware-software integration.

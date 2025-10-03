@@ -22,13 +22,7 @@
    <h3> <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white"</h3>
   <li><strong>Projects:</strong> 60+ (26 production-grade)</li>
   <li><strong>Highlights:</strong> Pixel-perfect cross-platform apps, Play Store & App Store published apps, Firebase integration, Push Notifications, Payment Systems.</li>
-  <li><strong>Technologies:</strong><br>
-    <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
-    <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white">
-  </li>
-  <li><strong>Highlights:</strong> Pixel-perfect cross-platform apps, Play Store & App Store published apps, Firebase integration, Push Notifications, Payment Systems.</li>
+
 
 
 

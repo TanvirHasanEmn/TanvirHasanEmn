@@ -20,7 +20,7 @@
 ## 🛠️ Tech Sectors & Projects  
 
 ### 📱 Mobile App Development  
-- **Projects:** 15+ (10 production-grade)  
+- **Projects:** 60+ (26 production-grade)  
 - **Technologies:**  
   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) 
   ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) 
@@ -31,7 +31,7 @@
 ---
 
 ### 💻 Backend Development  
-- **Projects:** 8 (5 production-grade)  
+- **Projects:** 4 (4 production-grade)  
 - **Technologies:**  
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) 
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
@@ -45,7 +45,7 @@
 ---
 
 ### 🤖 Automation & Workflows  
-- **Projects:** 5 (3 production-grade)  
+- **Projects:** 3 (1 production-grade)  
 - **Technologies:**  
   ![n8n](https://img.shields.io/badge/-n8n-EA4B8B?logo=n8n&logoColor=white) 
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
@@ -54,7 +54,7 @@
 ---
 
 ### 🧠 Machine Learning & AI  
-- **Projects:** 6 (2 production-grade)  
+- **Projects:** 23 (2 Research Paper)  
 - **Technologies:**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
@@ -67,7 +67,7 @@
 ---
 
 ### 🌐 Web Development  
-- **Projects:** 7 (4 production-grade)  
+- **Projects:** 7 (1 production-grade)  
 - **Technologies:**  
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
@@ -79,7 +79,7 @@
 ---
 
 ### 🔌 IoT & Embedded Systems  
-- **Projects:** 4 (2 production-grade)  
+- **Projects:** 1 (1 production-grade)  
 - **Technologies:**  
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) 
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?logo=raspberry-pi&logoColor=white) 

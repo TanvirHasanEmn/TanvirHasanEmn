@@ -98,18 +98,6 @@
 
 ---
 
-### 🌐 Web Development  
-- **Projects:** 7 (4 production-grade)  
-- **Technologies:**  
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
-  ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)  
-- **Highlights:** Responsive websites, admin dashboards, CMS integration.  
-
----
-
 ### 🔌 IoT & Embedded Systems  
 - **Projects:** 4 (2 production-grade)  
 - **Technologies:**  

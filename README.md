@@ -80,7 +80,7 @@
 <tr>
 <td width="33%" valign="top">
 
-<h3>🧠 Machine Learning & AI</h3>
+<h4>🧠 Machine Learning & AI</h4>
 
 <p><b>Projects:</b> 6 (2 production-grade)</p>
 
@@ -98,7 +98,7 @@
 </td>
 <td width="33%" valign="top">
 
-<h3>🤖 Automation & Workflows</h3>
+<h4>🤖 Automation & Workflows</h4>
 
 <p><b>Projects:</b> 5 (3 production-grade)</p>
 
@@ -112,7 +112,7 @@
 </td>
 <td width="33%" valign="top">
 
-<h3>🔌 IoT & Embedded Systems</h3>
+<h4>🔌 IoT & Embedded Systems</h4>
 
 <p><b>Projects:</b> 4 (2 production-grade)</p>
 

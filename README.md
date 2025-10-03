@@ -1,4 +1,8 @@
-<h1 align="center">Tanvir Hasan</h1> <h3 align="center">Mobile App Developer - Android & iOS | Flutter Enthusiast </h3> <h5 align="center">Java | Kotlin | Firebase | PHP - Laravel | Python | Machine Learning | Deep Learning | AI Agents | IoT | Sensors | Automation </h5> --- ### 📫 Connect with Me <p align="center"> <a href="mailto:tanvirhasanemn@gmail.com"> <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="90"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/tanvirhasanemn/"> <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="90"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/tanvirhasan.emn/"> <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" height="90"/> </a> </p>
+<h1 align="center">Tanvir Hasan</h1> <h3 align="center">Mobile App Developer - Android & iOS | Flutter Enthusiast </h3> <h5 align="center">Java | Kotlin | Firebase | PHP - Laravel | Python | Machine Learning | Deep Learning | AI Agents | IoT | Sensors | Automation </h5> --- 
+
+
+### 📫 Connect with Me 
+<p align="center"> <a href="mailto:tanvirhasanemn@gmail.com"> <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="90"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/tanvirhasanemn/"> <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="90"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/tanvirhasan.emn/"> <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" height="90"/> </a> </p>
 
 ---
 

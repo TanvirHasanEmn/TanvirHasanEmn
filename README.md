@@ -76,36 +76,59 @@
 
 ---
 
-### 🤖 Automation & Workflows  
-- **Projects:** 5 (3 production-grade)  
-- **Technologies:**  
-  ![n8n](https://img.shields.io/badge/-n8n-EA4B8B?logo=n8n&logoColor=white) 
-  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
-- **Highlights:** Workflow automation, APIs, system integrations, real-time triggers.  
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+<h3>🧠 Machine Learning & AI</h3>
 
-### 🧠 Machine Learning & AI  
-- **Projects:** 6 (2 production-grade)  
-- **Technologies:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
-  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) 
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) 
-  ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
-- **Highlights:** Predictive modeling, image classification, data visualization, AI Agents.  
+<p><b>Projects:</b> 6 (2 production-grade)</p>
 
----
+<b>Technologies:</b><br>
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white"/>
 
-### 🔌 IoT & Embedded Systems  
-- **Projects:** 4 (2 production-grade)  
-- **Technologies:**  
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) 
-  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?logo=raspberry-pi&logoColor=white) 
-  ![MATLAB](https://img.shields.io/badge/-MATLAB-FF8000?logo=mathworks&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
-- **Highlights:** IoT sensors, automation systems, hardware-software integration.  
+<br><br>
+<b>Highlights:</b> Predictive modeling, image classification, data visualization, AI agents.
+
+</td>
+<td width="33%" valign="top">
+
+<h3>🤖 Automation & Workflows</h3>
+
+<p><b>Projects:</b> 5 (3 production-grade)</p>
+
+<b>Technologies:</b><br>
+<img src="https://img.shields.io/badge/-n8n-EA4B8B?logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white"/>
+
+<br><br>
+<b>Highlights:</b> Workflow automation, APIs, system integrations, real-time triggers.
+
+</td>
+<td width="33%" valign="top">
+
+<h3>🔌 IoT & Embedded Systems</h3>
+
+<p><b>Projects:</b> 4 (2 production-grade)</p>
+
+<b>Technologies:</b><br>
+<img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/-RaspberryPi-A22846?logo=raspberry-pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MATLAB-FF8000?logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white"/>
+
+<br><br>
+<b>Highlights:</b> IoT sensors, automation systems, hardware-software integration.
+
+</td>
+</tr>
+</table>
+
 
 ---
 

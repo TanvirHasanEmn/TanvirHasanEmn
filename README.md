@@ -187,7 +187,6 @@
 </table>
 
 <!-- footer -->
-<p>---</p>
 <p><i>⭐ Always open to collaboration on Flutter, AI/ML, or IoT projects!</i></p>
 
 </div>

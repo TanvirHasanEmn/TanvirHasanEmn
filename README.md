@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://github.com/TanvirHasanEmn/TanvirHasanEmn/blob/main/banner_x.png" 
+    src="https://github.com/TanvirHasanEmn/TanvirHasanEmn/blob/main/banner_.png" 
     alt="Tanvir Banner" 
     width="100%" 
     style="pointer-events: none; user-select: none;"

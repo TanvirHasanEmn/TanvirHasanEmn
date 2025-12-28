@@ -36,7 +36,7 @@
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TanvirHasanEmn&theme=tokyonight" 
     alt="Most Commit Language" 
-    width="49%" 
+    width="50%" 
   />
 </p>
 

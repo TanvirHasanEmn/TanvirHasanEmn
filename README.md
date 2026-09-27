@@ -1,11 +1,32 @@
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github.com/TanvirHasanEmn/TanvirHasanEmn/blob/main/bannerx_.png" 
     alt="Tanvir Banner" 
     width="100%" 
     style="pointer-events: none; user-select: none;"
   />
-</p>
+</p> -->
+
+# Tanvir Hasan
+**Software Engineer (Flutter / Mobile Systems)**  
+Dhaka, Bangladesh · [LinkedIn](https://linkedin.com) · [Portfolio](https://yourportfolio.com)
+
+Mobile Engineer with 3+ years of production experience building high-scale fintech systems, real-time WebSocket applications, and clean modular architectures.
+
+---
+
+### 🛠 Tech Stack
+* **Core:** Flutter, Dart, Riverpod, BLoC, GoRouter
+* **Native:** Kotlin (KMP), Swift, Java
+* **Data & Realtime:** SQLite, Drift, WebSockets, Firebase, REST (Dio)
+* **DevOps & Tooling:** CI/CD (GitHub Actions), Fastlane, DevTools, Shorebird
+
+---
+
+### 📌 Featured Architecture
+* **[Production-Grade Feature-First Architecture Blueprint](https://github.com/TanvirHasanEmn/...)**  
+  An open-source reference standard for scalable Flutter applications featuring Riverpod 3.x, GoRouter auth guards, resilient WebSockets, and strict Separation of Concerns.
+
 
 <!-- GitHub Stats Section -->
 <div align="center">

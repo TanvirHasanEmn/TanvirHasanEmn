@@ -9,7 +9,7 @@
 
 # Tanvir Hasan
 **Software Engineer (Flutter / Mobile Systems)**  
-Dhaka, Bangladesh · [LinkedIn](https://linkedin.com) · [Portfolio](https://yourportfolio.com)
+Dhaka, Bangladesh · [LinkedIn](https://www.linkedin.com/in/tanvirhasanemn/) · [Portfolio](https://tanvirhasan-portfolio.vercel.app/)
 
 Mobile Engineer with 3+ years of production experience building high-scale fintech systems, real-time WebSocket applications, and clean modular architectures.
 
